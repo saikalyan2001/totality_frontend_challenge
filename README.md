@@ -1,1 +1,1 @@
-[Click here](https://totality-booking-rentals.netlify.app/properties)
+[Click here](https://totality-booking-rentals.netlify.app/login) 
